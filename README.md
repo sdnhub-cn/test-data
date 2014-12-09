@@ -1,6 +1,6 @@
 test-data
 =========
-* sdfjlsdfj
-* dfsfsdjlfsjdfls
+* a
+* dsjdfls
 * dfjslfjdl
 
